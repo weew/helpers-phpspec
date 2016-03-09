@@ -18,10 +18,11 @@
             "tests\\": "tests/"
         }
     },
-    "require": {},
+    "require": {
+        "bossa/phpspec2-expect": "^1.0"
+    },
     "require-dev": {
         "phpunit/phpunit": "^4.7",
-        "satooshi/php-coveralls": "^0.6.1",
-        "bossa/phpspec2-expect": "^1.0"
+        "satooshi/php-coveralls": "^0.6.1"
     }
 }
