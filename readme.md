@@ -1,9 +1,9 @@
 # Basic helpers to work with PHPSpec
 
-[![Build Status](https://img.shields.io/travis/weew/php-helpers-phpspec.svg)](https://travis-ci.org/weew/php-helpers-phpspec)
-[![Test Coverage](https://img.shields.io/coveralls/weew/php-helpers-phpspec.svg)](https://coveralls.io/github/weew/php-helpers-phpspec)
-[![Version](https://img.shields.io/packagist/v/weew/php-helpers-phpspec.svg)](https://packagist.org/packages/weew/php-helpers-phpspec)
-[![Licence](https://img.shields.io/packagist/l/weew/php-helpers-phpspec.svg)](https://packagist.org/packages/weew/php-helpers-phpspec)
+[![Build Status](https://img.shields.io/travis/weew/helpers-phpspec.svg)](https://travis-ci.org/weew/helpers-phpspec)
+[![Test Coverage](https://img.shields.io/coveralls/weew/helpers-phpspec.svg)](https://coveralls.io/github/weew/helpers-phpspec)
+[![Version](https://img.shields.io/packagist/v/weew/helpers-phpspec.svg)](https://packagist.org/packages/weew/helpers-phpspec)
+[![Licence](https://img.shields.io/packagist/l/weew/helpers-phpspec.svg)](https://packagist.org/packages/weew/helpers-phpspec)
 
 ## Table of contents
 
@@ -14,7 +14,7 @@
 
 ## Installation
 
-`composer require weew/php-helpers-phpspec`
+`composer require weew/helpers-phpspec`
 
 ## Introduction
 
